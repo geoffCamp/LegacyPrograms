@@ -1,0 +1,4 @@
+- files must pre-exist, must specify both files
+- input file must be of the correct 9x9 format
+- sudoku algorithm taken from: http://codereview.stackexchange.com/questions/37430/sudoku-solver-in-c
+- compile: gnatmake -Wall sudoku.adb

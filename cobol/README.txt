@@ -1,0 +1,5 @@
+- file must exist before program execution
+- message cannot contain '#'
+- message can be a maximum of 2000 characters
+- file name max of 100 characters
+- "make" will compile main program and modules
